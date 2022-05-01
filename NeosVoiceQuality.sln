@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{46300f5e-75ba-43b0-97d4-12b1f09a4802}") = "NeosVoiceQuality", "NeosVoiceQuality\NeosVoiceQuality.csproj", "{2550d745-a45f-44f2-8874-4c07afadb778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2550d745-a45f-44f2-8874-4c07afadb778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2550d745-a45f-44f2-8874-4c07afadb778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2550d745-a45f-44f2-8874-4c07afadb778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2550d745-a45f-44f2-8874-4c07afadb778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023E4190-76B5-400D-80F8-4FBA92858EF7}
+	EndGlobalSection
+EndGlobal
